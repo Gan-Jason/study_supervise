@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.gan.xiaoyuanzi.enjoystudy.EnjoyStudyApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.955 s - in com.gan.xiaoyuanzi.enjoystudy.EnjoyStudyApplicationTests
